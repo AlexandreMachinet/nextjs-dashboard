@@ -5,6 +5,6 @@ This is the starter template for the Next.js App Router Course. It contains the 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
 
-## On en est au Chapitre 11
+## On en est au Chapitre 12
 
-https://nextjs.org/learn/dashboard-app/adding-search-and-pagination
+https://nextjs.org/learn/dashboard-app/mutating-data
