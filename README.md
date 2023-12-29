@@ -5,6 +5,6 @@ This is the starter template for the Next.js App Router Course. It contains the 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
 
-## On en est au Chapitre 9
+## On en est au Chapitre 10
 
-https://nextjs.org/learn/dashboard-app/streaming
+https://nextjs.org/learn/dashboard-app/partial-prerendering
